@@ -101,6 +101,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 });
 
 // ////////////////////////
+// this line can be deleted
 
 function renderBlowup(image, character) {
     const blowup = document.querySelector('div#blowup');
